@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>비디오 삽입2</title>
+</head>
+<body>
+<video controls preload="none" width="360" height="240" src="bear.mp4">
+비디오를 재생할 수 없습니다.
+</video>
+<!-- preload속성이 none이기 때문에 사용자가 실행버튼을 눌러야 전체 비디오 파일이 로드된다. -->
+<video controls preload="metadata" width="360" height="240" src="bear.mp4">
+비디오를 재생할 수 없습니다.
+</video>
+<!-- preload속성이 metadata기 때문에 비디오의 첫 프레임만 사용자에게 보이고, 실행버튼을 눌러야 전체 비디오 파일이 로드된다. -->
+</body>
+</html>
