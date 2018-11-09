@@ -80,15 +80,15 @@
 
       &lt;/ul&gt;
 
-      + 예시
+      예시
 
-        <ul>
+      <ul>
 
-        <li>1</li>
+      <li>1</li>
 
-        <li>2</li>
+      <li>2</li>
 
-        </ul>
+      </ul>
 
     + &lt;ol&gt; : 번호 부여 o
 
@@ -98,15 +98,15 @@
 
       &lt;/ol&gt;
 
-      + 예시
+      예시
 
-      ​	<ol>
+      <ol>
 
-      ​	<li>1</li>
+      <li>1</li>
 
-      ​	<li>2</li>
+      <li>2</li>
 
-      ​	</ol>
+      </ol>
 
 11. 특수 기호 (' '사이 공백 제거해야함)
 
@@ -126,19 +126,19 @@
 
     + 예시
 
-      + &lt;table&gt;
+      <table&gt;
 
-         &lt;tr&gt; &lt;td&gt;1행1셀&lt;/td&gt; &lt;td&gt;1행2셀&lt;/td&gt;&lt;/tr&gt;
+       &lt;tr&gt; &lt;td&gt;1행1셀&lt;/td&gt; &lt;td&gt;1행2셀&lt;/td&gt;&lt;/tr&gt;
 
-         &lt;tr&gt; &lt;td&gt;2행1셀&lt;/td&gt; &lt;td&gt;2행2셀&lt;/td&gt;&lt;/tr&gt;
+       &lt;tr&gt; &lt;td&gt;2행1셀&lt;/td&gt; &lt;td&gt;2행2셀&lt;/td&gt;&lt;/tr&gt;
 
-         &lt;/table&gt;
+       &lt;/table&gt;
 
-      + <table>
+      <table>
 
-      ​	<tr><td>1행1셀</td><td>1행1셀</td></tr>
+      <tr><td>1행1셀</td><td>1행1셀</td></tr>
 
-      ​	<tr><td>2행1셀</td><td>2행2셀</td></tr>
+      <tr><td>2행1셀</td><td>2행2셀</td></tr>
 
       </table>
 
